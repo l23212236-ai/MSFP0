@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Nombre completo [correo@tijuana.tecnm.mx]
+Vanessa Yamileth Suarez Ceja [L23212236@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
